@@ -1,0 +1,62 @@
+[
+  {
+    "name": "mah",
+    "phone": "123",
+    "mail": "mah",
+    "Governorate": "Cairo",
+    "Gender": "Male",
+    "Age": "16",
+    "Password": "12",
+    "National ID": "684",
+    "posts": []
+  },
+  {
+    "name": "mahmoud",
+    "phone": "0123456789",
+    "mail": "mahmoudalaa@gmail.com",
+    "Governorate": "Cairo",
+    "Gender": "Male",
+    "Age": "20",
+    "Password": "1234",
+    "National ID": "684",
+    "posts": []
+  },
+  {
+    "name": "Mahmoud Alaa",
+    "phone": "",
+    "mail": "",
+    "Governorate": "cities",
+    "Gender": "",
+    "Age": "",
+    "Password": "123",
+    "National ID": "684",
+    "posts": [
+      {
+        "text": "aaxdkcckscksc"
+      },
+      {
+        "text": "aaxdkccksckscaxkka,la,cla,c"
+      }
+    ],
+    "images": [
+      {
+        "path": "C:/Users/hp/Pictures/inventor project/Screenshot 2022-12-19 150915.png",
+        "user": "Mahmoud Alaa"
+      },
+      {
+        "path": "C:/Users/hp/Pictures/inventor project/Screenshot 2022-12-19 171328.png",
+        "user": "Mahmoud Alaa"
+      }
+    ]
+  },
+  {
+    "name": "gdgf",
+    "phone": "012",
+    "mail": "ah",
+    "Governorate": "Aswan",
+    "Gender": "Female",
+    "Age": "12",
+    "Password": "100",
+    "National ID": "656565"
+  }
+]
